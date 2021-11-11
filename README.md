@@ -28,7 +28,7 @@ node .
 ```bash
 git clone https://github.com/Laksmana27/rlp-bot
 cd rlp-bot
-<Terus langsg run gini yah ganteng>
+<Terus langsg jalanin gini yah ganteng>
 node .
 ```
 
