@@ -18,8 +18,7 @@
 ```bash
 git clone https://github.com/Laksmana27/rlp-bot
 cd rlp-bot
-npm i
-npm update
+
 node .
 ```
 
@@ -29,7 +28,7 @@ node .
 ```bash
 git clone https://github.com/Laksmana27/rlp-bot
 cd rlp-bot
-npm i
+<Terus langsg run gini yah ganteng>
 node .
 ```
 
